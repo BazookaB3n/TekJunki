@@ -20,18 +20,17 @@ header {
     background-color: var(--white);
     color: var(--secondary-color);
     text-align: center;
-    padding-top: 3rem;
-    padding-bottom: 4rem;
+	padding-bottom: 0.5rem;
     border-bottom: 5px solid var(--primary-color);
 }
 
 .logo {
     max-width: 160px; /* Scaled down logo */
     height: auto;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 }
 
-/* Designated Menu Bar */
+/* Menu Bar */
 .top-nav {
     background-color: var(--light-accent);
     border-top: 2px solid var(--primary-color);
